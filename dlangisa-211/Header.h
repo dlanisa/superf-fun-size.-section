@@ -1,4 +1,4 @@
-#include "Enemies.h" // heade file
+#include "Enemies.h" //  heade file
 //enables different enemies image
 Enemies::Enemies(float x, float y, ALLEGRO_BITMAP *image, void(*TakeLife)(void))
 {
